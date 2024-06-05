@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(175, 202, 238) !important;
+}
+
+.title{
+    font-family: "Encode Sans SC", sans-serif;
+    font-size: 4vw;
+    margin-bottom: 2vw;
+    text-align: center;
+}
+
+.form-control{
+    width: 30% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.btn{
+    background-color: rgb(159, 182, 224) !important;
+    border-color: transparent;
+}
