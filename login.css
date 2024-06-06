@@ -1,12 +1,20 @@
 body{
-    background-color: rgb(175, 202, 238) !important;
+    background-color: #F3F7EC !important;
+    padding-top: 5vw;
 }
 
 .title{
-    font-family: "Encode Sans SC", sans-serif;
     font-size: 4vw;
     margin-bottom: 2vw;
     text-align: center;
+    font-family: 'extravaganzza', sans-serif;                                               
+}
+
+.title2{
+    font-size: 4vw;
+    margin-bottom: 2vw;
+    text-align: center;
+    font-family: 'extravaganzza', sans-serif;
 }
 
 .form-control{
@@ -15,8 +23,11 @@ body{
     align-items: center;
     margin: auto;
 }
+.subtitle{
+    font-family: 'extravaganzza', sans-serif 
+}
 
 .btn{
-    background-color: rgb(159, 182, 224) !important;
-    border-color: transparent;
+    background-color: #476d79 !important;
+    border-color: transparent !important;
 }
