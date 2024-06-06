@@ -7,3 +7,12 @@ function redirecionar() {
         alert("Por favor, selecione uma opção.")
     }
 }
+
+// script para os botoes da bibliotecaria
+// Referenciando o botão pelo ID
+var button4 = document.getElementById("button4");
+// Adicionando  clique ao botão
+button1.addEventListener("click", function () {
+  // Redirecionando
+  window.location.href = "login.html";
+});

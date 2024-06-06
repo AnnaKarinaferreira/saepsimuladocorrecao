@@ -23,6 +23,7 @@ body{
     align-items: center;
     margin: auto;
 }
+
 .subtitle{
     font-family: 'extravaganzza', sans-serif 
 }
@@ -30,4 +31,21 @@ body{
 .btn{
     background-color: #476d79 !important;
     border-color: transparent !important;
+}
+
+.btn-group{
+    text-decoration: none;
+}
+
+.links{
+    color: #F3F7EC;
+}
+
+.geral1{
+    text-align: center ;
+    margin-top: 6vw;
+}
+
+a:visited:hover, a:link:hover{
+    color: white;
 }
